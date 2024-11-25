@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is João Pedro. from Brazil</h2>
+<h2 align="left">Hi 😃! My name is <strong>João Pedro 🌙</strong>. from Brazil!</h2>
 
 
 <div align="center">
@@ -25,11 +25,5 @@
 ###
 
 <div align="left">
-  <a href="" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  </a>
-  <a href="" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-
-  </a>
+ 
 </div>
