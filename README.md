@@ -6,12 +6,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PedroCruzDm&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
-###
-
-<img align="right" height="150" src=""  />
-
-###
-
 <div align="left">
   <h3>Web:</h3>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
@@ -32,6 +26,3 @@
 
 ###
 
-<div align="left">
- 
-</div>
