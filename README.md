@@ -1,4 +1,4 @@
-<h2 align="left">Hi 😃! My name is <strong>João Pedro 🌙</strong>. from Brazil!</h2>
+<h2 align="left">Hi! My name is <strong>João Pedro</strong>. from Brazil!</h2>
 
 
 <div align="center">
