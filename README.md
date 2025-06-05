@@ -1,64 +1,56 @@
-<h2 align="left">Hi! My name is João Pedro!</h2>
+<h2 align="left">👋 Bem-vindo ao meu perfil! Eu sou o João Pedro</h2>
 
-###
+<p align="left">
+Sou um entusiasta da tecnologia e estudante apaixonado por desenvolvimento web, com foco no <strong>Front-End</strong>.  
+Atualmente estou aprimorando minhas habilidades em <strong>UX/UI Design</strong> e estudando <strong>Back-End</strong> para me tornar um <strong>Dev Full-Stack</strong>.  
+Sou autodidata, aprendo rápido e estou sempre em busca de novos desafios e aprendizados.
+</p>
+
+
+### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PedroCruzDm&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=pt-br&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PedroCruzDm&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=PedroCruzDm&show_icons=true&include_all_commits=true&count_private=true&theme=radical&locale=pt-br&hide_border=true" height="150" alt="Estatísticas GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PedroCruzDm&layout=compact&langs_count=5&theme=radical&locale=pt-br&hide_border=true" height="150" alt="Linguagens mais usadas" />
 </div>
 
-###
+---
+
+### 💻 Tecnologias que uso no dia a dia
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="PHP" />
 </div>
 
-###
-
-<h4 align="left">Estudando:</h4>
-
-###
+### 📚 Atualmente estudando
 
 <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
   <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
   <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP" />
   <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-    <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Laravel" />
 </div>
 
-###
+---
+
+### 🌐 Onde me encontrar
 
 <div align="left">
-  <a href="https://www.youtube.com/@ApenasDev">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <a href="https://www.youtube.com/@ApenasDev" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&style=for-the-badge" height="35" />
   </a>
-  <!--
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-237131277/">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a> -->
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-cruz-237131277/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" />
+  </a>
 </div>
 
-###
-
-<br clear="both">
-<!--
-<img src="https://raw.githubusercontent.com/PedroCruzDm/PedroCruzDm/output/snake.svg" alt="Snake animation" /> -->
-
-###
-
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=PedroCruzDm.PedroCruzDm&left_color=black&right_color=coral"  />
-
-###
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=PedroCruzDm.PedroCruzDm&left_color=black&right_color=coral" />
